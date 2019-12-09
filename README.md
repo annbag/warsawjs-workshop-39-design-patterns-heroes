@@ -1,4 +1,7 @@
-# Heroes
+# warsawjs workshop-39 design patterns heroes app
+
+During workshop-39 we learned about design patterns such as: Factory, Builder, Strategy, Command, Facade, Decorator, Mediator.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
